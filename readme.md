@@ -1,1 +1,1 @@
-Look for completed in /completed
+#Collection of Katas I've completed
