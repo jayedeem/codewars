@@ -15,5 +15,5 @@ isDigit("zero")
  */
 
 function isDigit(s) {
-  return s.match(/^-?\d*\.{0,1}\d+$/);
+  return s == parseFloat(s);
 }
