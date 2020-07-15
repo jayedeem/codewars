@@ -1,1 +1,1 @@
-#Collection of Katas I've completed
+# Collection of Katas I've completed
